@@ -28,13 +28,15 @@ The program takes text input from the user and processes each character individu
 
 ## Example
 
-**Input:**
-```text
-HELLO 123
-Output:
-.... . .-.. .-.. --- / .---- ..--- ...-- 
-Technologies
-Java
-Java Standard Library
-Purpose
+Input: HELLO 123
+
+Output: .... . .-.. .-.. --- / .---- ..--- ...--
+
+## Technologies
+
+- Java
+- Java Standard Library
+
+## Purpose
+
 This project was created to practice Java programming fundamentals and apply concepts such as arrays, loops, strings, and user input to a practical problem.
